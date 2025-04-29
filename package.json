@@ -1,0 +1,26 @@
+{
+  "name": "250429_study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deploy_to_sepolia.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junereo/250429_study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/junereo/250429_study/issues"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "solc": "^0.8.29",
+    "web3": "^4.16.0"
+  },
+  "homepage": "https://github.com/junereo/250429_study#readme"
+}
